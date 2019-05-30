@@ -1,0 +1,2 @@
+# Airline-Simulation
+For a school project, I was task to create a airline simulation. The whole purpose was to excuse our knowledge of threads and queues. The program has three queues, an arrival, departure, and runway queues. In the amount of time the users sets for the simulation, the progra,m enters a plane into either the arrival and departure queue. The plane wait in the queue for a certain amount of time and when that time is up it is put into the runway queue for arrival or departure.
